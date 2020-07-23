@@ -1,0 +1,3 @@
+- name: kube-state-metrics
+  dmap:
+    "sha256:d364eb52e307be65f74c3300f402940899b45ddd147ead4358b50cf77255b4e6": ["v1.9.7"]
